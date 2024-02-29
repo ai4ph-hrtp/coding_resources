@@ -2,7 +2,8 @@
 
 ## General
 
-A Crash Course in Data Science: [https://www.coursera.org/learn/data-science-course](https://www.coursera.org/learn/data-science-course)
+A Crash Course in Data Science
+* [https://www.coursera.org/learn/data-science-course](https://www.coursera.org/learn/data-science-course)
 
 ## TensorFlow/Keras
 
