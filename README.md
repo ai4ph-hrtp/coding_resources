@@ -26,9 +26,7 @@ R is a programming language for statistical computing and data visualization. It
 * Quick-R R Tutorial
   * [https://www.statmethods.net/r-tutorial/index.html](https://www.statmethods.net/r-tutorial/index.html)
 * UofT R & R Studio Tutorials:
-  * [https://mdl.library.utoronto.ca/technology/tutorials/r-and-rstudio-information-tutorials-
-and-workshops](https://mdl.library.utoronto.ca/technology/tutorials/r-and-rstudio-information-tutorials-
-and-workshops)
+  * [https://mdl.library.utoronto.ca/technology/tutorials/r-and-rstudio-information-tutorials-and-workshops](https://mdl.library.utoronto.ca/technology/tutorials/r-and-rstudio-information-tutorials-and-workshops)
 * Practical Machine Learning
   * [https://www.coursera.org/learn/practical-machine-learning](https://www.coursera.org/learn/practical-machine-learning)
 * The Data Scientist’s Toolbox
